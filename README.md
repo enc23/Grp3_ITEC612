@@ -3,7 +3,7 @@ Group 3: AI Facial Recognition Project
 
 ITEC 612: Spring 2026
 
-Steve Millett, Ronaldo Encarnacion, Rachel Baker, Tiffany Lam
+Steve Millett, Rolando Encarnacion, Rachel Baker, Tiffany Lam
 
 Dr. Pampapura Madali
 
