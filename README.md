@@ -21,6 +21,12 @@ Dr. Pampapura Madali
     2. 15 images per subject, split 10/3/2 for train/test/validate
 4. Rachel advised group members of file changes via Teams message
 
+ ## 4/02/26: File Directory Change
+1. S Millett added Images
+    1. 3 subjects: Tom Cruise, John Travolta, Elisabeth Moss
+    2. 15 images per subject, split 10/3/2 for train/test/validate
+
+
 ## Dataset Structure
 Raw images are stored in `dataset/Facial_Recognition_[Test Train Val]`
 
